@@ -115,13 +115,15 @@ aside .box a .c{
     font-family: Montserrat;
     padding: 10px 0;
 }
+#back{
+    display: none;
+}
 .len img{
     width: 40px;
     position: fixed;
     bottom: 20px;
     right: 20px;
     opacity: 0.5;
-    display: none;
 }
 .text .d{
     font-size: 18px;
